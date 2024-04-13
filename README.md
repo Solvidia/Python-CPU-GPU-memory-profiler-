@@ -21,11 +21,9 @@ optimizations.
 >
 > To enable AI-powered optimization suggestions, you need to enter an [OpenAI key](https://openai.com/api/) in the box under "Advanced options". _Your account will need to have a positive balance for this to work_ (check your balance at https://platform.openai.com/account/usage).
 >
-> <img width="487" alt="solvidia-mem-prof advanced options" src="https://user-images.githubusercontent.com/1612723/211639253-ec926b38-3efe-4a20-8514-e10dde94ec01.png">
 
 Once you've entered your OpenAI key (see above), click on the lightning bolt (⚡) beside any line or the explosion (💥) for an entire region of code to generate a proposed optimization. Click on a proposed optimization to copy it to the clipboard.
 
-<img width="571" alt="example proposed optimization" src="https://user-images.githubusercontent.com/1612723/211639968-37cf793f-3290-43d1-9282-79e579558388.png">
 
 You can click as many times as you like on the lightning bolt or explosion, and it will generate different suggested optimizations. Your mileage may vary, but in some cases, the suggestions are quite impressive (e.g., order-of-magnitude improvements). 
   
